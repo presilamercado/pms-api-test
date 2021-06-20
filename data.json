@@ -1,0 +1,38 @@
+{
+  "new_patient": {
+    "first_name": "John",
+    "last_name": "Doe",
+    "gender": "male",
+    "birth_date": "1995-06-20",
+    "nationality": "New Zealand",
+    "email_address": "john.doe@gmail.com"
+  },
+  "new_allergies": [
+      {
+        "description": "peanuts",
+        "reaction": "shortness of breath"
+      },
+      {
+        "description": "crabs",
+        "reaction": "face swelling"
+      }
+  ],
+  "update_patient": {
+    "first_name": "John",
+    "last_name": "Doe",
+    "gender": "male",
+    "birth_date": "1980-12-25",
+    "nationality": "New Zealand",
+    "email_address": "john.doe@gmail.com"
+  },
+  "update_allergies": [
+      {
+        "description": "peanuts",
+        "reaction": "shortness of breath"
+      },
+      {
+        "description": "crabs",
+        "reaction": "face swelling"
+      }
+    ]
+}
