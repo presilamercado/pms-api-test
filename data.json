@@ -28,10 +28,10 @@
   "update_allergies": [
       {
         "description": "peanuts",
-        "reaction": "shortness of breath"
+        "reaction": "itchy eyes"
       },
       {
-        "description": "crabs",
+        "description": "prawns",
         "reaction": "face swelling"
       }
     ]
